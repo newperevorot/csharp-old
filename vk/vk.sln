@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vk", "vk.csproj", "{C72C06C5-0615-438F-B6E8-7CF7A3009072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vk_avtorization", "vk_avtorization\vk_avtorization.csproj", "{9F6209CD-A8A8-40FC-A3D6-EA9A414F2A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vk_api_1", "vk_api_1\vk_api_1.csproj", "{92A21086-ABD1-40D2-A40F-FAEC4EF4C3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72C06C5-0615-438F-B6E8-7CF7A3009072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72C06C5-0615-438F-B6E8-7CF7A3009072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72C06C5-0615-438F-B6E8-7CF7A3009072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72C06C5-0615-438F-B6E8-7CF7A3009072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6209CD-A8A8-40FC-A3D6-EA9A414F2A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6209CD-A8A8-40FC-A3D6-EA9A414F2A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6209CD-A8A8-40FC-A3D6-EA9A414F2A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6209CD-A8A8-40FC-A3D6-EA9A414F2A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A21086-ABD1-40D2-A40F-FAEC4EF4C3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A21086-ABD1-40D2-A40F-FAEC4EF4C3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A21086-ABD1-40D2-A40F-FAEC4EF4C3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A21086-ABD1-40D2-A40F-FAEC4EF4C3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15A47C3-B2A3-4C7F-BBF3-2370C4F1B92B}
+	EndGlobalSection
+EndGlobal
